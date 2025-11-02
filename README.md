@@ -11,7 +11,7 @@
 
 ### 💼 About Me
 
-I'm a **professional Flutter & Firebase developer** with strong experience in designing, building, and deploying mobile applications with **clean architecture, scalable code, and beautiful UI/UX**.  
+I'm a **professional Flutter developer** with strong experience in designing, building, and deploying mobile applications with **clean architecture, scalable code, and beautiful UI/UX**.  
 I specialize in creating real-world apps that combine **performance, reliability, and creativity**.
 
 I’ve led and developed multiple production-level apps involving:
