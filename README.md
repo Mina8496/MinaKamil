@@ -1,6 +1,6 @@
 <h2 align="center">
 👋 Hi there, I'm <span style="color:#00bcd4">Mina Kamil</span>  
-🚀 Senior Flutter & Firebase Developer
+🚀 Senior Flutter Developer
 </h2>
 
 <p align="center">
