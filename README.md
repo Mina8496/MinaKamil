@@ -1,6 +1,6 @@
 <h2 align="center">
 👋 Hi there, I'm <span style="color:#00bcd4">Mina Kamil</span>  
-🚀 Senior Flutter Developer
+🚀 Senior Flutter & Firebase Developer
 </h2>
 
 <p align="center">
@@ -11,54 +11,71 @@
 
 ### 💼 About Me
 
-I'm a **professional Flutter developer** with strong experience in designing, building, and deploying mobile applications with **clean architecture, scalable code, and beautiful UI/UX**.  
-I specialize in creating real-world apps that combine **performance, reliability, and creativity**.
+I'm a **Computer Science graduate** and **professional Flutter developer** with hands-on experience in developing cross-platform mobile apps using **Flutter, Firebase, and modern clean architecture**.  
+Passionate about writing clean, maintainable code and building applications that deliver performance, scalability, and beautiful UI/UX.
 
-I’ve led and developed multiple production-level apps involving:
-- 🔥 Firebase (Auth, Firestore, Storage, Functions)
-- 🎯 Flutter Clean Architecture & MVC
-- 🎨 Advanced animations & custom UI components
-- ⏱ Timed quizzes, background audio, and live result systems
-- ☁️ Cloud-integrated mobile systems with analytics and performance tracking
+I've trained with **Orange Digital Center** and **Machinfy Academy**, participated in **ICPC programming contests**, and completed multiple professional **Flutter certifications**.  
+I build real-world apps that combine **creativity, solid architecture, and production-ready code**.
 
 ---
 
-### 🧠 Core Skills
+### 🧠 Technical Skills
 
 | Area | Skills |
 |------|---------|
-| **Mobile Development** | Flutter, Dart, Android & iOS Deployment |
-| **Backend Integration** | Firebase (Auth, Firestore, Storage, Cloud Functions) |
-| **Architecture** | Clean Architecture, MVC, Provider, Riverpod |
-| **Design** | Material Design, Lottie Animations, Rive, Figma |
-| **Tools** | Git, GitHub Actions, VS Code, Android Studio |
-| **API Integration** | REST APIs, JSON, HTTP, Dio |
-| **Performance** | Caching, Lazy Loading, App Optimization |
+| **Programming Languages** | Dart, JavaScript, C++, Java, Python, HTML, CSS, PHP |
+| **Frameworks & Architecture** | Flutter, Bloc, Cubit, Provider, MVC, MVVM, Clean Architecture |
+| **Backend & Databases** | Firebase, Supabase, MySQL, SQLite, Hive, Shared Preferences |
+| **APIs & Integrations** | RESTful APIs, Stripe, PayPal, Paymob, Third-Party SDKs |
+| **Tools & Platforms** | Git, GitHub, Postman, CI/CD pipelines, VS Code, Android Studio |
+| **UI/UX & Design** | Responsive Design, Animations, Lottie, Rive, Material Design, Figma, Photoshop |
+| **Soft Skills** | Teamwork, Problem Solving, Adaptability, Communication |
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🌟 **Aner & Astaner App**
-Christian educational quiz and verse-ordering app with Firebase integration, animated UI, and leaderboard system.  
-**Tech:** Flutter, Firebase, Imgbb API, Provider, Audio Player.
+#### 🌟 [**Aner & Astaner App**](https://play.google.com/store/apps/details?id=com.minakamil.dev.aner_astaner)
+Christian educational quiz and verse-ordering app with Firebase integration, drag-and-drop UI, music, and leaderboard.  
+**Tech:** Flutter, Firebase, Provider, Imgbb API.
 
 #### 📖 **Bible Exam Platform**
-Smart quiz platform for churches with chapter selection, timers, and result analytics.  
-**Tech:** Flutter, Firebase Firestore, Authentication, Cloud Functions.
+Exam and quiz app for churches with Firebase Auth, Firestore, results analytics, and leaderboard filtering.  
+**Tech:** Flutter, Firebase, Bloc, Responsive UI.
 
-#### 🎵 **Background Music System**
-Background music playback that persists across app lifecycle and pauses/resumes automatically.  
-**Tech:** Flutter Background Audio, State Management, App Lifecycle.
+#### 🧭 [**Traveling App**](https://github.com/Mina8496/Traveling_app)
+Travel guide app with trip planning, recommendations, and interactive map integration.  
+**Tech:** Flutter, Firebase, REST APIs.
+
+#### 🗣️ [**Language Learning App**](https://github.com/Mina8496/Language-Learning-App)
+Interactive app for learning new languages with quizzes and progress tracking.  
+**Tech:** Flutter, Firebase, Dart.
+
+#### 🏀 [**Basketball Points Counter**](https://github.com/Mina8496/Basketball-Points-Counter-App)
+Workshop project for tracking basketball scores in real-time.  
+**Tech:** Flutter, Dart.
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Certifications & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mina8496&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mina8496&layout=compact&theme=tokyonight" height="160">
-</p>
+- **Flutter Advanced – Clean Architecture & MVVM (Udemy)**  
+- **Mastering Flutter: Responsive & Adaptive UI (Udemy)**  
+- **Flutter Payment Integration – Stripe, PayPal, Paymob (Udemy)**  
+- **Google Maps Integration in Flutter (Udemy)**  
+- **Flutter Workshop – Orange Digital Center (2022)**  
+- **Flutter Workshop – Machinfy Academy (2023)**  
+- **ICPC Collegiate Programming Contest – Qualification Round (2022)**  
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science in Computers and Information**  
+Arab Open University (AOU Egypt) – *2019–2023*  
+GPA: 2.73 (Good)  
+**Graduation Project:** Personality Pattern Analysis App using Flutter + AI (NLP).  
+**Status:** Military service completed.  
 
 ---
 
@@ -67,8 +84,10 @@ Background music playback that persists across app lifecycle and pauses/resumes 
 ```dart
 final minaKamil = Developer(
   role: "Senior Flutter & Firebase Developer",
-  focus: "Building scalable, performant, and elegant mobile applications",
-  tools: ["Flutter", "Firebase", "Provider", "Clean Architecture"],
-  currentlyLearning: ["Advanced Animations", "Cloud Functions"],
-  availableFor: ["Remote Work", "Full-time Projects", "App Optimization"],
+  degree: "B.Sc. Computer Science",
+  focus: "Building scalable, secure, and beautiful mobile apps",
+  tools: ["Flutter", "Firebase", "Clean Architecture", "Bloc", "Provider"],
+  trainedAt: ["Orange Digital Center", "Machinfy Academy"],
+  achievements: ["ICPC 2022 Participant", "Udemy Flutter Advanced"],
+  openToWork: true,
 );
